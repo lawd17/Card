@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CardsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-31T12:45:43" hostname="LAPTOP-L1Q9EIT4" time="0.044">
+  <properties/>
+  <testcase name="should_wins_player_with_highest_in_more_than_one_card()" classname="CardsTest" time="0.044"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
